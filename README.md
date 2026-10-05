@@ -1,4 +1,4 @@
-# Hi, I'm Ankit Deswal 👋
+# Hi, I'm Ankit 👋
 
 ### PhD in Computer Science | Assistant Professor | Cloud Computing | AI/ML | DevOps
 
