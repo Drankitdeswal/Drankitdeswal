@@ -74,6 +74,6 @@ Currently focusing on:
 
 ## 📫 Connect With Me
 
-LinkedIn: [Add your LinkedIn profile here]
+LinkedIn: https://www.linkedin.com/in/ankitdeswals/
 
-Email: [Add your professional email here]
+Email: drankitdeswal@gmail.com
